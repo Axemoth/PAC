@@ -1,3 +1,4 @@
-from utils import greet
+from utils import greet, farewell
 
-print(greet("World"))
+print(greet("Axemoth"))
+print(farewell("Axemoth"))
